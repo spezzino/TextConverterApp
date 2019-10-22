@@ -3,9 +3,8 @@ window.onload = () => {
     let textInput = document.querySelector("textarea[name=text]");
     let hexInput = document.querySelector("textarea[name=hex]");
 
-    textInput.addEventListener("keyup", textToHEX);
-    hexInput.addEventListener("keyup", HEXToText);
-
+    textInput.addEventListener("input", textToHEX);
+    hexInput.addEventListener("input", HEXToText);
 
     function textToHEX() {
         let str = textInput.value;
