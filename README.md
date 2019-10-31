@@ -6,9 +6,9 @@ No pages or functionality have been created.. Work together to create the app.
 
 # Current functionality
 - text -> hex and backwards, real time updating
+- text -> decimal
 
 # To-Do
-- text -> decimal
 - text -> binary
 - text -> md5
 - text -> sha1
