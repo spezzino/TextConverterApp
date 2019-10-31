@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans',
+      sans-serif;
+}
+
+h3 {
+  padding: 20px;
+}
+
+h2 {
+  padding: 30px;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+textarea {
+  width: 90%;
+  margin: 0 auto;
+  text-align: left;
+  text-indent: 5px;
+}
+
+body {
+  background-color: #eee;
+}
